@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.otobou.honoreversi",
+      "package_name": "com.example.deeplink_cookbook",
       "sha256_cert_fingerprints":
       ["AC:96:81:4D:46:E1:3B:0F:5D:CA:D5:5C:F0:7F:84:E1:C9:77:A8:E5:AE:1D:EF:18:70:39:8B:BC:AE:A4:32:F6"]
     }
