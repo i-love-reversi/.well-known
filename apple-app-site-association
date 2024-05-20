@@ -7,11 +7,11 @@
           "P6JQ28MYA9.com.otobou.honoreversi"
         ],
         "paths": [
-          "*"
+          "/quest/*"
         ],
         "components": [
           {
-            "/": "/*"
+            "/": "/quest/*"
           }
         ]
       }
